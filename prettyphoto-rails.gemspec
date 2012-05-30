@@ -7,7 +7,7 @@ Gem::Specification.new do |s|
   s.authors     = ['Christian Mager']
   s.email       = 'cm@hiq5.com'
   s.homepage    = 'http://github.com/hiq5/prettyphoto-rails'
-  s.files       = Dir.glob("{vendor,lib}/**/*") + %w(LICENSE README.md)
+  s.files       = Dir.glob("{vendor,lib}/**/*") + %w(LICENSE Readme.md)
   s.add_dependency('rails', '>= 3.2')
   s.add_dependency('jquery-rails')
   s.add_dependency('sass-rails')
