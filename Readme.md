@@ -40,5 +40,5 @@ for all the details on how to use.
 ### Credits
 
 * prettyPhoto is (c) Copyright Stephane Caron
-* This gem is maintained by [@christian_mager](https://www.tiwtter.com/#!/christian_mager)
+* This gem is maintained by [@christian_mager](https://www.twitter.com/#!/christian_mager)
 
