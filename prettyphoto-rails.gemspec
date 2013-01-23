@@ -1,9 +1,9 @@
 Gem::Specification.new do |s|
   s.name        = 'prettyphoto-rails'
-  s.version     = '0.1.1'
-  s.date        = '2012-05-31'
+  s.version     = '0.2.0'
+  s.date        = '2013-01-23'
   s.summary     = 'Rails gem for easy prettyPhoto integration.'
-  s.description = 'Rails gem for easy prettyPhoto integration. See http://www.no-margin-for-errors.com/projects/prettyphoto-jquery-lightbox-clone/ for more information on how to use prettyPhoto.'
+  s.description = 'Rails gem for easy prettyPhoto (v3.1.5) integration. See http://www.no-margin-for-errors.com/projects/prettyphoto-jquery-lightbox-clone/ for more information on how to use prettyPhoto.'
   s.authors     = ['Christian Mager']
   s.email       = 'cm@hiq5.com'
   s.homepage    = 'http://github.com/hiq5/prettyphoto-rails'

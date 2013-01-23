@@ -3,7 +3,7 @@ prettyphoto-rails
 
 A gem to easily integrate [prettyPhoto](http://www.no-margin-for-errors.com/projects/prettyPhoto/) with the rails 3.1+ asset pipeline.
 
-Currently this gem birngs support for prettyPhoto **v3.1.4**.
+Currently this gem birngs support for prettyPhoto **v3.1.5**.
 
 ## Installation
 
