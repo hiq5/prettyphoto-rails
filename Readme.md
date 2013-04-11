@@ -12,6 +12,7 @@ First add the following lines to your applications `Gemfile`:
 ``` ruby
 gem 'jquery-rails'
 gem 'prettyphoto-rails'
+gem 'prettyphoto-rails-dev' # or this for uncompressed javascript code
 ```
 
 Run `bundle install`.
