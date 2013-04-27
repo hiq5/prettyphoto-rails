@@ -3,7 +3,7 @@ prettyphoto-rails
 
 A gem to easily integrate [prettyPhoto](http://www.no-margin-for-errors.com/projects/prettyPhoto/) with the rails 3.1+ asset pipeline.
 
-Currently this gem birngs support for prettyPhoto **v3.1.5**.
+Currently this gem brings support for prettyPhoto **v3.1.5**.
 
 ## Installation
 
@@ -21,6 +21,7 @@ Add the following lines to `app/assets/javascripts/application.js`:
 ``` javascript
 //= require jquery
 //= require prettyphoto-rails
+//= require prettyphoto-rails-dev /* use this for uncompressed javascript code */
 ```
 
 Finalize the setup by adding these lines to `app/assets/stylesheets/application.css`:
@@ -28,8 +29,7 @@ Finalize the setup by adding these lines to `app/assets/stylesheets/application.
 ``` css
 /*
  *= require_self
- *= require prettyphoto-rails 
- *= require prettyphoto-rails-dev /* use this for uncompressed javascript code */
+ *= require prettyphoto-rails
  */
 ```
 
