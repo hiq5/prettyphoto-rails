@@ -1,6 +1,2 @@
-require 'rails'
-
-module PrettyphotoRails
-  class Engine < Rails::Engine
-  end
-end
+require "prettyphoto-rails/version"
+require "prettyphoto-rails/engine" if defined?(::Rails)
